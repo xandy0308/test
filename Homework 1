@@ -1,0 +1,31 @@
+minuets=30
+seconds=60
+
+sum=30*60
+print (1.)
+print("sample 1")
+print (sum,"sec" ) 
+print ("sample2")
+minuets2=5
+print (minuets2*seconds,"sec")
+print( )
+print(2.)
+Cruella=7
+Jane=2
+print("sample1")
+print(Cruella*Jane,"cards")
+print("sample2")
+Cruella2=59
+print(Cruella2*Jane,"cards")
+print( )
+print(3.)
+print("sample1")
+Year=365
+age1=65
+print(Year*age1,"days old")
+print("sample2")
+age2=20
+print(Year*age2,"days old")
+print("sample3.1")
+Goal=100
+print(Goal*Year-age1*Year,"days till 100 year old")
